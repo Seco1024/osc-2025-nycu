@@ -1,0 +1,4 @@
+initramfs initramfs.cpio
+kernel=bootloader.img
+enable_uart=1
+arm_64bit=1
